@@ -33,25 +33,25 @@ List of Problems
 
 1. Arrays
 
-1. Two Sum
-2. Remove Duplicates from Sorted Array
-3. Maximum Subarray
-4. Merge Sorted Array
+•  Two Sum
+•  Remove Duplicates from Sorted Array
+•  Maximum Subarray
+•  Merge Sorted Array
 
 2. Strings
 
-5. Reverse String
-6. Valid Anagram
-7. Longest Common Prefix
+•  Reverse String
+•  Valid Anagram
+•  Longest Common Prefix
 
 3. Pointers
 
-8. Reverse Linked List
-9. Middle of the Linked List
+•  Reverse Linked List
+•  Middle of the Linked List
 
 4. Algorithms
 
-10. Binary Search
+•  Binary Search
 
 Project Structure
 
